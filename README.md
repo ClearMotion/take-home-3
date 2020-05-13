@@ -58,4 +58,13 @@ For example, this tool shows the following visualization for test case 1:
 * Cyan dots are GPS coordinates from the drive session
 * Magenta lines are road segments selected by map matching
 
+### Criteria for a Good Solution
+
+We will consider your solution to be successful if it meets the following conditions:
+
+* Your algorithm should produce the same output as in the example test cases. We will accept small differences in the first and last few segment IDs, but your output should otherwise be identical.
+* Your algorithm should also function correctly for input data not included in this repository.
+* Your code should run reasonably efficiently. We don't need an optimal solution, but your code should not take several seconds to run.
+* Your code should be reasonably easy to follow, and include comments to explain components of your algorithm.
+
 
