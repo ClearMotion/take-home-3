@@ -67,4 +67,6 @@ We will consider your solution to be successful if it meets the following condit
 * Your code should run reasonably efficiently. We don't need an optimal solution, but your code should not take several seconds to run.
 * Your code should be reasonably easy to follow, and include comments to explain components of your algorithm.
 
+You will need to present your algorithm in a **PowerPoint presentation** to the RoadMotion team. The audience will consist of multi-disciplined engineers (not just software developers), so make sure that the whole team can understand your presentation.
+
 
